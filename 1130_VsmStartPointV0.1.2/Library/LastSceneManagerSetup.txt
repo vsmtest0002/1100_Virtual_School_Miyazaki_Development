@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Vsm/Asset_Rpgpp.unity
+- path: Assets/Vsm/Asset_Rpgpp1122.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
